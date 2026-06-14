@@ -1,0 +1,1 @@
+## Components folder is basically modules that we are going to run in the project

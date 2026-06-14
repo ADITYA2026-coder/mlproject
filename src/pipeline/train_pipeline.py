@@ -1,0 +1,1 @@
+# after model is created and i wanna predict for new data code here
